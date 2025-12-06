@@ -1,0 +1,26 @@
+name: desafio_mobile2
+description: Projeto Flutter do Desafio Final de Desenvolvimento Mobile II
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.5
+  http: ^0.13.6
+  image_picker: ^0.8.7+4
+  flutter_svg: ^1.1.6
+  intl: ^0.18.0
+  uuid: ^3.0.7  # ADICIONE ESTA LINHA
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
