@@ -21,3 +21,4 @@ Este projeto é uma aplicação Flutter capaz de realizar **CRUD completo** de C
 - Validação de campos nos formulários
 - Navegação entre telas fluida
 - Interface agradável e responsiva
+=======
